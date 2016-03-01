@@ -1,0 +1,8 @@
+# IntelliJ
+
+/target
+/.idea
+.idea/
+*.iml
+
+# Created by .ignore support plugin (hsz.mobi)
